@@ -135,9 +135,9 @@ exit();
 		</h1>
 	    </div>
 	</div>
-	<script type="text/javascript">
+	<!-- <script type="text/javascript">
 		setTimeout(function(){ window.location.href = window.location; }, 30000);
-	</script>
+	</script> -->
     </body>
 </html>
 
