@@ -1,7 +1,7 @@
 <?php
 set_time_limit(0);
-define("ACCESS_TOKEN_API","SutXmV6-bcAAAAAAAAUZ1Dejkwwehlj6H2msTfcCdUBj923TI5dlDzXYnpYM15Nd");
-//define("ACCESS_TOKEN_API","yIwXLkeiKcAAAAAAAAAAR6JM2B-ZwjQ-D5qaFL_U8N-qGg8YSgIPBBSbqaBwOsPb");
+define("ACCESS_TOKEN_API","__");
+//define("ACCESS_TOKEN_API","__");
 
 /*
 --------------
